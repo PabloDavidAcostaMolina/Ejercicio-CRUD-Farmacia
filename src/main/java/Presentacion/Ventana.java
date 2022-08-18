@@ -55,7 +55,7 @@ public class Ventana extends javax.swing.JFrame {
         jPanelFarmacias = new javax.swing.JPanel();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Almacenes v0.0.1");
+        setTitle("Almacenes v1.0.0");
 
         jLabelNombre.setText("Nombre");
 
